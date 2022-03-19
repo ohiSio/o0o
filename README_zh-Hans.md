@@ -1,12 +1,12 @@
 <div align="right">
   Language:
-  EN
-  <a title="中文" href="README_zh-Hans.md">中文</a>
+  <a title="English" href="https://github.com/ikeq/hexo-theme-inside/blob/dev/README.md">EN</a>
+  中文
 </div>
 
 <h1 align="center">INSIDE</h1>
 
-<p align="center">🌈 &nbsp;SPA, Flat and clean theme for Hexo, built with <a href="https://angular.io">Angular</a>.</p>
+<p align="center">🌈 &nbsp;简约、现代的 SPA 主题, built with <a href="https://angular.io">Angular</a>.</p>
 
 <p align="center">
   <a href="https://travis-ci.com/ikeq/hexo-theme-inside" rel="nofollow"><img src="https://img.shields.io/travis/ikeq/hexo-theme-inside?label=Travis+CI&color=limegreen&style=flat-square"></a>
@@ -21,25 +21,25 @@
   <img src="https://blog.oniuo.com/screenshot.webp">
 </p>
 
-## Preview
+## 预览
 
 - https://blog.oniuo.com
 - https://blog.oniuo.com/post/inside-theme-showcase
 
-## Features
+## 特性
 
-- Custom theming
-- Built-in Search
-- Built-in [Disqus](https://disqus.com)
-- Flexible plugin mechanism
-- Enhanced content display
-  - Reward, Copyright notice, Picture zooming
-  - Table (headless table, long table)
-  - Content addons, out of the box (Collapse, Timeline, Content Crypto)
-- Misc
-  - [PWA](https://developers.google.com/web/progressive-web-apps) (Immersive design, Offline support ([workbox](https://developers.google.com/web/tools/workbox/)))
+- 自定义换肤
+- 内置搜索
+- 内置 [Disqus](https://disqus.com)
+- 灵活的插件机制
+- 增强的内容展示
+  - 打赏、版权声明、图片缩放
+  - 表格 (headless table, long table)
+  - 内容组件，开箱即用 (Collapse、时间线、文字加密)
+- 其他
+  - [PWA](https://developers.google.com/web/progressive-web-apps) (沉浸式设计、离线支持 ([workbox](https://developers.google.com/web/tools/workbox/)))
   - SEO (SSR、sitemap)
-  - Print friendly
+  - 打印机友好
 
 ## Quick start
 
